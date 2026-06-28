@@ -1,0 +1,1 @@
+var e=`/geomania/assets/sm-DGBIRFB_.svg`;export{e as default};

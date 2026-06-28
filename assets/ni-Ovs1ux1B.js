@@ -1,0 +1,1 @@
+var e=`/geomania/assets/ni-CcFCSQxm.svg`;export{e as default};

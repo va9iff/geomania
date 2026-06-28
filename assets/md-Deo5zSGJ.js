@@ -1,0 +1,1 @@
+var e=`/geomania/assets/md-DRlxvNwm.svg`;export{e as default};

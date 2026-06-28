@@ -1,0 +1,1 @@
+var e=`/geomania/assets/arab-C4CYPgyC.svg`;export{e as default};

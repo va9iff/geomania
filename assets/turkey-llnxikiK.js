@@ -1,0 +1,1 @@
+var e=`/geomania/assets/turkey-A-ZncDYv.svg`;export{e as default};

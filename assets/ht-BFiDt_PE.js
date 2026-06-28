@@ -1,0 +1,1 @@
+var e=`/geomania/assets/ht-DIMg4gti.svg`;export{e as default};

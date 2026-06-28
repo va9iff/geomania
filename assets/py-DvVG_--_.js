@@ -1,0 +1,1 @@
+var e=`/geomania/assets/py-mNzh0mZC.svg`;export{e as default};

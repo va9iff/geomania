@@ -1,0 +1,1 @@
+var e=`/geomania/assets/tc-dtelpZmc.svg`;export{e as default};

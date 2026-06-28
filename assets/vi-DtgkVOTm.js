@@ -1,0 +1,1 @@
+var e=`/geomania/assets/vi-BC_zcciE.svg`;export{e as default};

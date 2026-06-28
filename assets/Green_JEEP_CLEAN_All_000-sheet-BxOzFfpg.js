@@ -1,0 +1,1 @@
+var e=`/geomania/assets/green_jeep-sheet-DkZGz2HF.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/geomania/assets/fk-nuUF_Ak3.svg`;export{e as default};

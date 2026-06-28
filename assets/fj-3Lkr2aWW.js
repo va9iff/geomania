@@ -1,0 +1,1 @@
+var e=`/geomania/assets/fj-DEAVMg38.svg`;export{e as default};

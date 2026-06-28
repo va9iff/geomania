@@ -1,0 +1,1 @@
+var e=`/geomania/assets/azerbaijan-D_SmMowW.svg`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/geomania/assets/gb-nir-D4gikpNq.svg`;export{e as default};

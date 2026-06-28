@@ -1,0 +1,1 @@
+var e=`/geomania/assets/ky-Dpsu1myA.svg`;export{e as default};

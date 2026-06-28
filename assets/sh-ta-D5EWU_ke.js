@@ -1,0 +1,1 @@
+var e=`/geomania/assets/sh-ta-CPJublpi.svg`;export{e as default};

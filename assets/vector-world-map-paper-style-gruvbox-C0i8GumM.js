@@ -1,0 +1,1 @@
+var e=`/geomania/assets/vector-world-map-paper-style-gruvbox-CUWHTwpN.svg`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/geomania/assets/je-DyWbhIiC.svg`;export{e as default};
